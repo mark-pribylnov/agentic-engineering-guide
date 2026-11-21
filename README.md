@@ -42,6 +42,8 @@
    - [агенда и тезисы](https://github.com/mark-pribylnov/ai-native-test-task/blob/main/ru/stream-09-09-2026-agenda.md)
    - [ответы на вопросы из чата](https://github.com/mark-pribylnov/ai-native-test-task/blob/main/ru/stream-09-09-2026.md)
 5. [Вопросы](https://github.com/rolling-scopes-school/ai-native/blob/ai-native-2-0/ru/interview/ai-part.md) с интервью + [подготовка](https://github.com/rolling-scopes-school/ai-native/blob/ai-native-2-0/ru/interview/how-it-goes.md)
+6. [Тестовое задание](https://github.com/rolling-scopes-school/ai-native/blob/main/test-task/README.ru.md) для закрепления + [сайд-квесты](https://github.com/rolling-scopes-school/ai-native/blob/main/test-task/side-quests/README.md).
+   Не обязательно каждое делать полностью. Даже частичное выполнение будет очень полезно.
 
 Агент с оплатой картой РБ в BYN без VPN — [Kimi Code](https://www.kimi.ai/ru/help/kimi-code/cli-getting-started). Оплата виртуалкой МТБанк Mastercard в BYN работает.
 
