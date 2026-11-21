@@ -43,12 +43,12 @@
    - [ответы на вопросы из чата](https://github.com/mark-pribylnov/ai-native-test-task/blob/main/ru/stream-09-09-2026.md)
 5. [Вопросы](https://github.com/rolling-scopes-school/ai-native/blob/ai-native-2-0/ru/interview/ai-part.md) с интервью + [подготовка](https://github.com/rolling-scopes-school/ai-native/blob/ai-native-2-0/ru/interview/how-it-goes.md)
 6. [Тестовое задание](https://github.com/rolling-scopes-school/ai-native/blob/main/test-task/README.ru.md) для закрепления + [сайд-квесты](https://github.com/rolling-scopes-school/ai-native/blob/main/test-task/side-quests/README.md).
-   Не обязательно каждое делать полностью. Даже частичное выполнение будет очень полезно.
+   Не обязательно каждое делать полностью. Даже частичное выполнение будет очень полезно. А
 
 Агент с оплатой картой РБ в BYN без VPN — [Kimi Code](https://www.kimi.ai/ru/help/kimi-code/cli-getting-started). Оплата виртуалкой МТБанк Mastercard в BYN работает.
 
 В примерах используется OpenCode, т.к. туда можно подключить самую дешёвую и в то же время хорошую модель — DeepSeek. Дешевле Kimi в 2–5 раз в зависимости от пиковой нагрузки.
-Если нет иностранной карты, то оплатить DeepSeek в РБ можно через [plati.market](https://plati.market/itm/24-7-no-login-deepseek-api-deepseek-api-balance-replenishment/5874678) (наценка посредника 20%). В способе оплаты выбрать СБП по QR-коду и считать QR в приложении Оплати.
+Если нет иностранной карты, то оплатить DeepSeek в РБ можно через [plati.market](https://plati.market/itm/24-7-no-login-deepseek-api-deepseek-api-balance-replenishment/5874678) (наценка посредника 20%). В способе оплаты выбрать СБП (российская платёжная система) по QR-коду и считать QR в приложении Оплати (то самое которым оплачивают проезд).
 
 [Roadmap](https://roadmap.sh/ai-engineer)
 
