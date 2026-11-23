@@ -1,4 +1,4 @@
-[Roadmap](https://roadmap.sh/ai-engineer)
+> Prefer [README.md](./README.md). It has been updated and improved. This file has not.
 
 # Contents
 
@@ -25,6 +25,9 @@
    - Daily habits:
      - [Context Engineering](#context-engineering)
      - [Basic workflow](#basic-workflow)
+
+
+[Roadmap](https://roadmap.sh/ai-engineer)
 
 # 0. Introduction
 
